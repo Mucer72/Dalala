@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dalala/static/css/main.9116dead.css",
+    "main.js": "/Dalala/static/js/main.5b67ad66.js",
+    "static/css/19.9d908203.chunk.css": "/Dalala/static/css/19.9d908203.chunk.css",
+    "static/js/19.9bf3c6ba.chunk.js": "/Dalala/static/js/19.9bf3c6ba.chunk.js",
+    "static/js/787.b2d19c40.chunk.js": "/Dalala/static/js/787.b2d19c40.chunk.js",
+    "static/media/slick.svg": "/Dalala/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Dalala/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Dalala/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Dalala/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Dalala/index.html",
+    "main.9116dead.css.map": "/Dalala/static/css/main.9116dead.css.map",
+    "main.5b67ad66.js.map": "/Dalala/static/js/main.5b67ad66.js.map",
+    "19.9d908203.chunk.css.map": "/Dalala/static/css/19.9d908203.chunk.css.map",
+    "19.9bf3c6ba.chunk.js.map": "/Dalala/static/js/19.9bf3c6ba.chunk.js.map",
+    "787.b2d19c40.chunk.js.map": "/Dalala/static/js/787.b2d19c40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9116dead.css",
+    "static/js/main.5b67ad66.js"
+  ]
+}
