@@ -1,24 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect } from "react";
+import { BrowserRouter } from "react-router-dom";
+import "slick-carousel/slick/slick-theme.css";
+import "slick-carousel/slick/slick.css";
+import BrandCarousel from "./components/BrandCarousel";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import ReviewCarousel from "./components/ReviewCarousel";
+import Router from "./router";
 
 function App() {
+  const handleKeyScroll = (event) => {
+    let items = document.querySelectorAll(".item");
+    let navheader = document.getElementById("header");
+
+    if (window.scrollY > 200) {
+      navheader.classList.add("tofixed");
+    } else {
+      navheader.classList.remove("tofixed");
+    }
+    items.forEach((item) => {
+      if (item.offsetTop - window.scrollY < 400) {
+        item.classList.add("actives");
+      }
+    });
+  };
+  useEffect(() => {
+    window.addEventListener("scroll", handleKeyScroll);
+
+    // cleanup this component
+    return () => {
+      window.removeEventListener("scroll", handleKeyScroll);
+    };
+  }, []);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Header />
+      <Router />
+      <ReviewCarousel />
+      <BrandCarousel />
+      <Footer />
+    </BrowserRouter>
   );
 }
 
