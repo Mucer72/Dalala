@@ -46,22 +46,22 @@ const BrandCarousel = () => {
       <div class="swiper review-slider">
         <Slider {...settings}>
           <div class="swiper-slide">
-            <img src={`${getOriginURL}/images/1.jpg`} alt="" />
+            <img src={`${getOriginURL}/dalala/images/1.jpg`} alt="" />
           </div>
           <div class="swiper-slide">
-            <img src={`${getOriginURL}/images/2.jpg`} alt="" />
+            <img src={`${getOriginURL}/dalala/images/2.jpg`} alt="" />
           </div>
           <div class="swiper-slide">
-            <img src={`${getOriginURL}/images/3.jpg`} alt="" />
+            <img src={`${getOriginURL}/dalala/images/3.jpg`} alt="" />
           </div>
           <div class="swiper-slide">
-            <img src={`${getOriginURL}/images/4.jpg`} alt="" />
+            <img src={`${getOriginURL}/dalala/images/4.jpg`} alt="" />
           </div>
           <div class="swiper-slide">
-            <img src={`${getOriginURL}/images/5.jpg`} alt="" />
+            <img src={`${getOriginURL}/dalala/images/5.jpg`} alt="" />
           </div>
           <div class="swiper-slide">
-            <img src={`${getOriginURL}/images/6.jpg`} alt="" />
+            <img src={`${getOriginURL}/dalala/images/6.jpg`} alt="" />
           </div>
         </Slider>
       </div>

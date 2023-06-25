@@ -47,7 +47,7 @@ const ReviewCarousel = () => {
         <Slider {...settings}>
           <div class="swiper-slide  showtotop delay-04">
             <div class="box">
-              <img src={`${getOriginURL}/images/pic1.png`} alt="" />
+              <img src={`${getOriginURL}/dalala/images/pic1.png`} alt="" />
               <h3>Ái Ngọc</h3>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -66,7 +66,7 @@ const ReviewCarousel = () => {
           </div>
           <div class="swiper-slide  showtotop delay-04">
             <div class="box">
-              <img src={`${getOriginURL}/images/pic2.png`} alt="" />
+              <img src={`${getOriginURL}/dalala/images/pic2.png`} alt="" />
               <h3>Bảo Khanh</h3>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -85,7 +85,7 @@ const ReviewCarousel = () => {
           </div>
           <div class="swiper-slide  showtotop delay-04">
             <div class="box">
-              <img src={`${getOriginURL}/images/pic3.png`} alt="" />
+              <img src={`${getOriginURL}/dalala/images/pic3.png`} alt="" />
               <h3>Quỳnh Như</h3>
               <p>
                 Lorem ipsum l dolor sit o lamet consectetur v adipisicing elit e.
@@ -104,7 +104,7 @@ const ReviewCarousel = () => {
           </div>
           <div class="swiper-slide  showtotop delay-04">
             <div class="box">
-              <img src={`${getOriginURL}/images/pic4.png`} alt="" />
+              <img src={`${getOriginURL}/dalala/images/pic4.png`} alt="" />
               <h3>Ánh Minh</h3>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.

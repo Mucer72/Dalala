@@ -4,7 +4,7 @@ export const specs = [
       description:
         "Hoa Atiso là một biểu tượng của Đà Lạt",
       timeDelay: "delay-04",
-      img: "images/20.jpg",
+      img: "/dalala/images/20.jpg",
       link: "1",
     },
     {
@@ -12,7 +12,7 @@ export const specs = [
       description:
         "Dâu tây Đà Lạt nổi tiếng với nhiều giống dâu tươi ngon, vị ngọt thanh, thịt chắc, căng bóng đẹp mắt.",
       timeDelay: "delay-08",
-      img: "images/21.jpg",
+      img: "/dalala/images/21.jpg",
       link: "2",
     },
     {
@@ -20,7 +20,7 @@ export const specs = [
       description:
         "Hồng khô ăn ngọt đậm, bên ngoài cứng bên trong mềm ẩm, dẻo thơm.",
       timeDelay: "delay-1",
-      img: "images/22.jpg",
+      img: "/dalala/images/22.jpg",
       link: "3",
     },
     {
@@ -28,7 +28,7 @@ export const specs = [
       description:
         "Mứt Đà Lạt rất đa dạng về chủng loại với đủ trạng thái sấy khô, sấy dẻo, giòn, chua, cay…",
       timeDelay: "delay-12",
-      img: "images/23.jpg",
+      img: "/dalala/images/23.jpg",
       link: "4",
     },
     {
@@ -36,7 +36,7 @@ export const specs = [
       description:
         "Những chai rượu vang ở đây được chế biến từ những trái dâu tằm màu đen thẫm, hương vị ngọt thanh cực phù hợp cho thứ rượu thượng hạng này.",
       timeDelay: "delay-16",
-      img: "images/24.jpg",
+      img: "/dalala/images/24.jpg",
       link: "5",
     },
     {
@@ -44,7 +44,7 @@ export const specs = [
       description:
         "Đến Đà Lạt không thể không nhắc đến các loại hoa quả tươi mát.",
       timeDelay: "delay-16",
-      img: "images/25.jpg",
+      img: "/dalala/images/25.jpg",
       link: "6",
     },
   ];

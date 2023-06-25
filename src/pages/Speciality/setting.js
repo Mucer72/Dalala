@@ -3,14 +3,14 @@ import { getOriginURL } from "../../handler";
 export const blogData = {
   1: {
     header: {
-      headImage: `${getOriginURL}/images/20.jpg`,
+      headImage: `${getOriginURL}/dalala/images/20.jpg`,
       title: "Atiso",
       titleDesc:
         "Hoa Atiso là một biểu tượng đặc trưng của thành phố Đà Lạt",
     },
     abouts: [
       {
-        image: "../images/20-1.jpg",
+        image: "../dalala/images/20-1.jpg",
         title: "Đôi nét về Atiso",
         content:
           "Hoa Atiso là một biểu tượng của Đà Lạt, có nguồn gốc từ vùng đất Địa Trung Hải, nhưng do khí hậu ôn hòa quanh năm nên Đà Lạt đã trở thành vùng đất vô cùng thích hợp để loại hoa này phát triển.",
@@ -20,7 +20,7 @@ export const blogData = {
         styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
       },
       {
-        image: "../images/20-2.jpg",
+        image: "../dalala/images/20-2.jpg",
         title: "Công dụng",
         content:
           "Nếu bạn đang băn khoăn không biết du lịch Đà Lạt mua gì làm quà, thì có thể lựa chọn mua hoa atiso tươi về nấu canh, hoặc mua các chế phẩm từ atiso như trà atiso (có tác dụng giải độc, mát gan, tác dụng an thần tốt…) về làm quà cũng là một gợi ý.",
@@ -32,7 +32,7 @@ export const blogData = {
     ],
     experience: {
       title: "Các loại Atiso",
-      image: "../images/20-3.jpg",
+      image: "../dalala/images/20-3.jpg",
       imgDelay: "delay-06",
       contentDelay: "delay-08",
       styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
@@ -50,7 +50,7 @@ export const blogData = {
      },
     post: {
     title:"Địa chỉ mua gợi ý",
-    image:"../images/19-4.jpg",
+    image:"../dalala/images/19-4.jpg",
     content:
     [
       {
@@ -82,14 +82,14 @@ export const blogData = {
   },
   2: {
     header: {
-      headImage: `${getOriginURL}/images/21.jpg`,
+      headImage: `${getOriginURL}/dalala/images/21.jpg`,
       title: "Dâu Tây",
       titleDesc:
         "Dâu tây Đà Lạt nổi tiếng với nhiều giống dâu tươi ngon, vị ngọt thanh, thịt chắc, căng bóng đẹp mắt.",
     },
     abouts: [
       {
-        image: "../images/21-1.jpg",
+        image: "../dalala/images/21-1.jpg",
         title: "Đôi nét về dâu tây",
         content:
           "Dâu tây được xem là loại quả đặc trưng nhất khi nói tới Đà Lạt. Với nhiệt độ quanh năm từ 18 – 25 độ C thì Đà Lạt là vùng trồng dâu nổi tiếng cung ứng khắp các thị trường từ Bắc vào Nam. Du khách có thể mua dâu tây tươi ở chợ Đà Lạt hoặc kết hợp tham quan và mua dâu tại các vườn dâu.",
@@ -99,7 +99,7 @@ export const blogData = {
         styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
       },
       {
-        image: "../images/21-2.jpg",
+        image: "../dalala/images/21-2.jpg",
         title: "Đặc điểm",
         content:
           "Dâu tây Đà Lạt được trồng bằng công nghệ thủy canh nên đảm bảo xanh, sạch, không chất bảo quản, không hóa chất bảo vệ thực vật, không chất kích thích phát triển cây trồng. Dâu tây Đà Lạt nổi tiếng với nhiều giống dâu tươi ngon, vị ngọt thanh, thịt chắc, căng bóng đẹp mắt và còn bổ dưỡng cho sức khỏe, ngăn ngừa các bệnh về mắt, làm đẹp da và còn có tác dụng giải độc.",
@@ -111,7 +111,7 @@ export const blogData = {
     ],
     experience: {
       title: "Các giống dâu nổi bật",
-      image: "../images/21-3.jpg",
+      image: "../dalala/images/21-3.jpg",
       imgDelay: "delay-06",
       contentDelay: "delay-08",
       styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
@@ -134,7 +134,7 @@ export const blogData = {
      },
     post: {
     title:"Các địa điểm mua dâu ngon",
-    image:"../images/21-4.jpg",
+    image:"../dalala/images/21-4.jpg",
     content:
     [
       {
@@ -172,14 +172,14 @@ export const blogData = {
   },
   3: {
     header: {
-      headImage: `${getOriginURL}/images/22.jpg`,
+      headImage: `${getOriginURL}/dalala/images/22.jpg`,
       title: "Hồng",
       titleDesc:
         "Mùa hồng Đà Lạt về cũng là lúc thành phố mộng mơ khoác lên mình chiếc áo màu vàng cam rực rỡ. Những vườn hồng chín mọng, xum xuê tạo nên bức tranh tuyệt đẹp làm say đắm lòng người lữ khách.",
     },
     abouts: [
       {
-        image: "../images/22-1.jpg",
+        image: "../dalala/images/22-1.jpg",
         title: "Đôi nét về quả hồng",
         content:
           "Hồng là một trong những loại trái cây rất phổ biến ở Đà Lạt. Mùa hồng Đà Lạt từ tháng 7 đến tháng 11, nếu đi đúng dịp bạn có thể mua hồng tươi tại vườn hoặc các chợ, còn không bạn có thể lựa chọn hồng treo gió, hồng sấy khô đặc sản Đà Lạt làm quà cho mọi người.",
@@ -189,7 +189,7 @@ export const blogData = {
         styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
       },
       {
-        image: "../images/22-2.jpg",
+        image: "../dalala/images/22-2.jpg",
         title: "Đặc điểm",
         content:
           "Hồng khô sẽ bảo quản được quanh năm, ăn ngọt đậm, bên ngoài cứng bên trong mềm ẩm, vị thanh thanh, dẻo thơm, ai ai cũng thích. Hồng giòn có thể được xem là “best-seller” tại đây. Hồng giòn Đà Lạt có hai loại là hồng đầu bằng và hồng trứng lốc. Mặc dù có những đặc điểm khác nhau nhưng vẫn có hương vị giống nhau. Là loại được ưa chuộng nhất bởi nó có vị ngon ngọt, thơm thơm, khi cho vào miệng nhai nghe giòn rộp rộp rất thú vị. Quả Hồng giòn là một hương vị mới lạ đáng để các bạn thưởng thức.",
@@ -201,7 +201,7 @@ export const blogData = {
     ],
     experience: {
       title: "Các loại hồng nổi bật",
-      image: "../images/22-3.jpg",
+      image: "../dalala/images/22-3.jpg",
       imgDelay: "delay-06",
       contentDelay: "delay-08",
       styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
@@ -233,7 +233,7 @@ export const blogData = {
      },
     post: {
     title:"Các địa điểm mua hồng ngon",
-    image:"../images/22-4.jpg",
+    image:"../dalala/images/22-4.jpg",
     content:
     [
       {
@@ -265,14 +265,14 @@ export const blogData = {
   },
   4: {
     header: {
-      headImage: `${getOriginURL}/images/23.jpg`,
+      headImage: `${getOriginURL}/dalala/images/23.jpg`,
       title: "Mứt",
       titleDesc:
         "Mứt Đà Lạt rất đa dạng về chủng loại với đủ trạng thái sấy khô, sấy dẻo, giòn, chua, cay…",
     },
     abouts: [
       {
-        image: "../images/23-1.jpg",
+        image: "../dalala/images/23-1.jpg",
         title: "Đôi nét về mứt",
         content:
           "Mứt cũng là món ăn khá nổi tiếng khi nhắc đến danh sách những đặc sản của du lịch Đà Lạt. Có vô số những loại mứt và trái cây sấy được làm từ các loại hoa, củ, quả có sẵn của Đà Lạt và được sản xuất quanh năm chứ không chỉ có trong dịp Tết. Do đều là làm từ rau củ, hoa quả nên đặc sản mang một vị ngọt tự nhiên, không bị gắt miệng. Do được chế biến theo phương pháp làm mứt và sấy nên loại đặc sản này có thể bảo quản được lâu, rất thích hợp làm quà biếu cho người thân, bạn bè.",
@@ -282,7 +282,7 @@ export const blogData = {
         styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
       },
       {
-        image: "../images/23-2.jpg",
+        image: "../dalala/images/23-2.jpg",
         title: "Đặc điểm",
         content:
           "Mứt Đà Lạt rất đa dạng về chủng loại với đủ trạng thái sấy khô, sấy dẻo, giòn, chua, cay… Ngoài việc phong phú về chủng loại, mứt của Đà Lạt cũng được đánh giá cao về độ ngon, rẻ, độc đáo, bởi hầu hết được chế biến từ các loại củ, quả thậm chí là các loại hoa của địa phương này. Đây cũng là món ăn chứa nhiều chất dinh dưỡng, chúng mang lại nhiều lợi ích cho sức khỏe: tăng cường hệ thống miễn dịch, hỗ trợ giảm cân tốt tim mạch, duy trì lượng đường trong máu,...",
@@ -294,7 +294,7 @@ export const blogData = {
     ],
     experience: {
       title: "Các loại mứt nên thử",
-      image: "../images/23-3.jpg",
+      image: "../dalala/images/23-3.jpg",
       imgDelay: "delay-06",
       contentDelay: "delay-08",
       styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
@@ -335,7 +335,7 @@ export const blogData = {
      },
     post: {
     title:"Các địa điểm mua mứt ngon",
-    image:"../images/23-4.jpg",
+    image:"../dalala/images/23-4.jpg",
     content:
     [
       {
@@ -367,14 +367,14 @@ export const blogData = {
   },
   5: {
     header: {
-      headImage: `${getOriginURL}/images/24.jpg`,
+      headImage: `${getOriginURL}/dalala/images/24.jpg`,
       title: "Vang Đà Lạt",
       titleDesc:
         "Những chai rượu mang hương vị đậm đà, tốt sức khỏe với màu đen thẫm và vị chát nhè nhẹ đặc trưng",
     },
     abouts: [
       {
-        image: "../images/24-1.jpg",
+        image: "../dalala/images/24-1.jpg",
         title: "Đôi nét về Vang Đà Lạt",
         content:
           "Rượu vang Đà Lạt đã là một thương hiệu rượu nổi tiếng trong cả nước. Những chai rượu vang ở đây được chế biến từ những trái dâu tằm (trái dâu để nuôi tằm), loại quả này có màu đen thẫm, hương vị ngọt thanh cực phù hợp cho thứ rượu thượng hạng này.Được lên men bằng công thức truyền thống nhưng vẫn đảm bảo vệ sinh an toàn thực phẩm để cho ra đời những chai rượu mang hương vị đậm đà, tốt sức khỏe.",
@@ -384,7 +384,7 @@ export const blogData = {
         styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
       },
       {
-        image: "../images/24-2.jpg",
+        image: "../dalala/images/24-2.jpg",
         title: "Đặc điểm",
         content:
           "Rượu vang Đà Lạt có màu sắc hấp dẫn, khi uống có vị chát lạ. Điều này giúp tăng hưng phấn và kích thích vị giác. Vậy nên, rượu vang Đà Lạt được nhiều người chọn làm món khai vị cho bữa ăn. Bên cạnh đó, các chất lên men trong rượu vang giúp bạn tiêu hóa thức ăn tốt hơn, tránh bị tức bụng, đầy hơi sau khi cần. Ngoài ra trong rượu vang Đà Lạt còn chứa nhiều thành phần tốt cho da, cải thiện cân nặng, giúp cơ thể bạn tăng cường sức đề kháng, tránh được các vấn đề về tim mạch hay đột quỵ.",
@@ -396,7 +396,7 @@ export const blogData = {
     ],
     experience: {
       title: "Các dòng vang nổi bật",
-      image: "../images/24-3.jpg",
+      image: "../dalala/images/24-3.jpg",
       imgDelay: "delay-06",
       contentDelay: "delay-08",
       styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
@@ -461,7 +461,7 @@ export const blogData = {
     },
     post: {
     title:"Bài viết tham khảo",
-    image:"../images/24-4.jpg",
+    image:"../dalala/images/24-4.jpg",
     content: 
       [
         {
@@ -500,14 +500,14 @@ export const blogData = {
   },
   6: {
     header: {
-      headImage: `${getOriginURL}/images/25.jpg`,
+      headImage: `${getOriginURL}/dalala/images/25.jpg`,
       title: "Hoa Quả tươi",
       titleDesc:
         "Nông sản Đà Lạt với vị ngọt thanh mát, tươi ngon",
     },
     abouts: [
       {
-        image: "../images/25-1.jpg",
+        image: "../dalala/images/25-1.jpg",
         title: "Đôi nét về đặc sản",
         content:
           "Một trong những điều khiến khách du lịch thích thú khi đến Đà Lạt du lịch là được thưởng thức những nông sản sạch nơi đây. Không ít người chọn mua những loại rau củ sạch về làm quà. Đà Lạt với thổ nhưỡng phì nhiêu, quanh năm khí hậu mát mẻ, nơi đây được người ta ví von là “thiên đường rau xanh”. Nhiều du khách khi tới Đà Lạt đã chọn thăm quan các vườn rau để có thể thưởng thức được những loại rau mang nét đặc trưng vùng cao nguyên Lâm Đồng. ",
@@ -517,7 +517,7 @@ export const blogData = {
         styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
       },
       {
-        image: "../images/25-2.jpg",
+        image: "../dalala/images/25-2.jpg",
         title: "Đặc điểm",
         content:
           "Mọi du khách đều công nhận rằng những loại rau củ ở Đà Lạt thường có vị ngọt thanh mát, tươi ngon và mang hương vị khác hẳn so với những loại rau được trồng ở nơi khác. Đây cũng là lý do khiến những người tiêu dùng thông thái chọn mua rau củ Đà Lạt để chế biến trong các bữa ăn.",
@@ -529,7 +529,7 @@ export const blogData = {
     ],
     experience: {
       title: "Các loại rau củ nổi bật",
-      image: "../images/25.jpg",
+      image: "../dalala/images/25.jpg",
       imgDelay: "delay-06",
       contentDelay: "delay-08",
       styleContent: { gridColumnStart: 2, gridColumnEnd: 4 },
@@ -579,7 +579,7 @@ export const blogData = {
     },
     post: {
     title:"Bài viết tham khảo",
-    image:"../images/25-4.jpg",
+    image:"../dalala/images/25-4.jpg",
     content:
     [
       {

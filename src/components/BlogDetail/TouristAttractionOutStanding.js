@@ -16,7 +16,7 @@ const TouristAttractionOutStanding = () => {
       </div>
       <div class="box-container">
         <div class="box showtotop delay-08">
-          <img src={`${getOriginURL}/images/p-2.jpg`} alt="" />
+          <img src={`${getOriginURL}/dalala/images/p-2.jpg`} alt="" />
           <div class="content">
             <h3>
               <i class="fas fa-map-marker-alt"></i>Ga Đà Lạt
@@ -36,7 +36,7 @@ const TouristAttractionOutStanding = () => {
         </div>
 
         <div class="box showtotop delay-1">
-          <img src={`${getOriginURL}/images/p-3.jpg`} alt="" />
+          <img src={`${getOriginURL}/dalala/images/p-3.jpg`} alt="" />
           <div class="content">
             <h3>
               <i class="fas fa-map-marker-alt"></i>Suối Vàng
@@ -55,7 +55,7 @@ const TouristAttractionOutStanding = () => {
         </div>
 
         <div class="box showtotop delay-12">
-          <img src={`${getOriginURL}/images/p-4.jpg`} alt="" />
+          <img src={`${getOriginURL}/dalala/images/p-4.jpg`} alt="" />
           <div class="content">
             <h3>
               <i class="fas fa-map-marker-alt"></i>Dinh 1
