@@ -46,7 +46,7 @@ const BrandCarousel = () => {
       <div class="swiper review-slider">
         <Slider {...settings}>
           <div class="swiper-slide">
-            <img src='%PUBLIC_URL%//images/1.jpg' alt="" />
+            <img src={`${getOriginURL}/images/1.jpg`} alt="" />
           </div>
           <div class="swiper-slide">
             <img src={`${getOriginURL}/images/2.jpg`} alt="" />
